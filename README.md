@@ -27,7 +27,7 @@
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Appium](https://img.shields.io/badge/appium-purple?style=flat-square&logo=appium&logoColor=white)
 ![Web Driver IO](https://img.shields.io/badge/webdriverio-%2320232a.svg?style=flat-square&logo=webdriverio&logoColor=white)
-![K6.js](https://img.shields.io/badge/k6.js-%2320232a.svg?style=flat-square&logo=k6&logoColor=white)
+![K6.js](https://img.shields.io/badge/k6.js-%23593d88.svg?style=flat-square&logo=k6&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 
 
